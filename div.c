@@ -2,7 +2,7 @@
 #include "Functions.h"
 
 void div(int a, int b){
-    printf("Частное %d и %d равно %d\n",a,b,a/b);
+    printf(" %d / %d = %d\n",a,b,a/b);
 
 }
 

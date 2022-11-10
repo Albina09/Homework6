@@ -2,6 +2,6 @@
 #include "Functions.h"
 
 void add(int a, int b){
-    printf("Сумма %d и %d равна %d\n",a,b,a+b);
+    printf(" %d + %d = %d\n",a,b,a+b);
 
 }
